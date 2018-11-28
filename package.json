@@ -1,16 +1,16 @@
 {
-  "name": "exceljs",
+  "name": "@perkinelmer/exceljs",
   "version": "1.6.3-exposedparser",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "private": false,
   "license": "MIT",
   "author": {
-    "name": "Guyon Roche",
-    "email": "guyon@live.com"
+    "name": "Guyon Roche, modified by Scott Stunkel",
+    "email": "scott.stunkel@perkinelmer.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/guyonroche/exceljs.git"
+    "url": "https://github.com/PerkinElmer/exceljs.git"
   },
   "engines": {
     "node": ">=6.0.0"
